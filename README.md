@@ -41,5 +41,5 @@
   - Last Name: Doe
   - Zip Code: 12345
 - Nhấn "Continue" → kiểm tra điều hướng đến `/checkout-step-two.html`.
-
+- Ảnh chụp màn hình kết quả chạy kiểm thử nằm ở : cypress\e2e\screenshots
 
